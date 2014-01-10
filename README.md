@@ -13,4 +13,6 @@ which approximates a Travis VM.
 
 ```bash
 git clone https://github.com/michaelklishin/sous-chef.git
+cd sous-chef
+git clone git://github.com/travis-ci/travis-cookbooks.git cookbooks
 ```
